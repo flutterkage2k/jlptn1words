@@ -3,7 +3,7 @@
 ## 🔧 단계별 해결 방법
 
 1단계: 현재 폴더에서 가상 환경 만들기
-cd /Users/heesung/Downloads/exceltojson
+폴더로 이동
 python3 -m venv venv
 
 2단계: 가상 환경 활성화
@@ -18,7 +18,8 @@ python excel_to_json_converter.py
 
 
 ## 확인하기
-성공하면 이런 화면이 나올 거예요:
+
+성공하면 이런 화면이 나올 예요:
 📊 엑셀 → JSON 변환기
 ==============================
 사용 방법을 선택하세요:
