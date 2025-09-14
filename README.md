@@ -30,7 +30,9 @@ python excel_to_json_converter.py
 
 
 ## 다음에 사용할 때
-나중에 다시 사용하려면:
-해당폴더로 이동해서
-source venv/bin/activate
-python excel_to_json_converter.py
+나중에 다시 사용하려면:  
+```
+해당폴더로 이동해서  
+source venv/bin/activate  
+python excel_to_json_converter.py  
+```
